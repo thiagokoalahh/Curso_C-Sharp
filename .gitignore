@@ -160,4 +160,4 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 
-*.pdf
+**.pdf
