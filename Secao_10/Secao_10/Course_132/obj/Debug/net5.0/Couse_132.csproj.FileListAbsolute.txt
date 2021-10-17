@@ -1,0 +1,16 @@
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\bin\Debug\net5.0\Couse_132.exe
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\bin\Debug\net5.0\Couse_132.deps.json
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\bin\Debug\net5.0\Couse_132.runtimeconfig.json
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\bin\Debug\net5.0\Couse_132.runtimeconfig.dev.json
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\bin\Debug\net5.0\Couse_132.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\bin\Debug\net5.0\ref\Couse_132.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\bin\Debug\net5.0\Couse_132.pdb
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\obj\Debug\net5.0\Couse_132.csproj.AssemblyReference.cache
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\obj\Debug\net5.0\Couse_132.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\obj\Debug\net5.0\Couse_132.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\obj\Debug\net5.0\Couse_132.AssemblyInfo.cs
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\obj\Debug\net5.0\Couse_132.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\obj\Debug\net5.0\Couse_132.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\obj\Debug\net5.0\ref\Couse_132.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\obj\Debug\net5.0\Couse_132.pdb
+D:\Code\Curso C#\Seção 10\Secao_10\Couse_132\obj\Debug\net5.0\Couse_132.genruntimeconfig.cache

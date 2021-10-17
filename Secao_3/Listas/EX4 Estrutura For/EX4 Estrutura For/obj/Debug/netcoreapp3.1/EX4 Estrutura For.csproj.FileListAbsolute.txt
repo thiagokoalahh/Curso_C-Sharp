@@ -1,0 +1,13 @@
+D:\Code\Curso C#\Exercícios\Listas\EX4 Estrutura For\EX4 Estrutura For\bin\Debug\netcoreapp3.1\EX4 Estrutura For.exe
+D:\Code\Curso C#\Exercícios\Listas\EX4 Estrutura For\EX4 Estrutura For\bin\Debug\netcoreapp3.1\EX4 Estrutura For.deps.json
+D:\Code\Curso C#\Exercícios\Listas\EX4 Estrutura For\EX4 Estrutura For\bin\Debug\netcoreapp3.1\EX4 Estrutura For.runtimeconfig.json
+D:\Code\Curso C#\Exercícios\Listas\EX4 Estrutura For\EX4 Estrutura For\bin\Debug\netcoreapp3.1\EX4 Estrutura For.runtimeconfig.dev.json
+D:\Code\Curso C#\Exercícios\Listas\EX4 Estrutura For\EX4 Estrutura For\bin\Debug\netcoreapp3.1\EX4 Estrutura For.dll
+D:\Code\Curso C#\Exercícios\Listas\EX4 Estrutura For\EX4 Estrutura For\bin\Debug\netcoreapp3.1\EX4 Estrutura For.pdb
+D:\Code\Curso C#\Exercícios\Listas\EX4 Estrutura For\EX4 Estrutura For\obj\Debug\netcoreapp3.1\EX4 Estrutura For.csproj.AssemblyReference.cache
+D:\Code\Curso C#\Exercícios\Listas\EX4 Estrutura For\EX4 Estrutura For\obj\Debug\netcoreapp3.1\EX4 Estrutura For.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Exercícios\Listas\EX4 Estrutura For\EX4 Estrutura For\obj\Debug\netcoreapp3.1\EX4 Estrutura For.AssemblyInfo.cs
+D:\Code\Curso C#\Exercícios\Listas\EX4 Estrutura For\EX4 Estrutura For\obj\Debug\netcoreapp3.1\EX4 Estrutura For.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Exercícios\Listas\EX4 Estrutura For\EX4 Estrutura For\obj\Debug\netcoreapp3.1\EX4 Estrutura For.dll
+D:\Code\Curso C#\Exercícios\Listas\EX4 Estrutura For\EX4 Estrutura For\obj\Debug\netcoreapp3.1\EX4 Estrutura For.pdb
+D:\Code\Curso C#\Exercícios\Listas\EX4 Estrutura For\EX4 Estrutura For\obj\Debug\netcoreapp3.1\EX4 Estrutura For.genruntimeconfig.cache

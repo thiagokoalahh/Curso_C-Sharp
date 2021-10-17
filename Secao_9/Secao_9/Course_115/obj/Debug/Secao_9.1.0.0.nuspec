@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Secao_9</id>
+    <version>1.0.0</version>
+    <authors>Secao_9</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Code\Curso C#\Seção 9\Secao_9\Secao_9\bin\Debug\net5.0\Secao_9.runtimeconfig.json" target="lib\net5.0\Secao_9.runtimeconfig.json" />
+    <file src="D:\Code\Curso C#\Seção 9\Secao_9\Secao_9\bin\Debug\net5.0\Secao_9.dll" target="lib\net5.0\Secao_9.dll" />
+  </files>
+</package>

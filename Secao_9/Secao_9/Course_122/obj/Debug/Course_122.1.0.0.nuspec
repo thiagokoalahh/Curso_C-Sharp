@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Course_122</id>
+    <version>1.0.0</version>
+    <authors>Course_122</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Code\Curso C#\Seção 9\Secao_9\Course_122\bin\Debug\net5.0\Course_122.runtimeconfig.json" target="lib\net5.0\Course_122.runtimeconfig.json" />
+    <file src="D:\Code\Curso C#\Seção 9\Secao_9\Course_122\bin\Debug\net5.0\Course_122.dll" target="lib\net5.0\Course_122.dll" />
+  </files>
+</package>

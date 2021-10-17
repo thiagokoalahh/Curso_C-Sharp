@@ -1,0 +1,16 @@
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\bin\Debug\net5.0\Course_123_Exec.exe
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\bin\Debug\net5.0\Course_123_Exec.deps.json
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\bin\Debug\net5.0\Course_123_Exec.runtimeconfig.json
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\bin\Debug\net5.0\Course_123_Exec.runtimeconfig.dev.json
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\bin\Debug\net5.0\Course_123_Exec.dll
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\bin\Debug\net5.0\ref\Course_123_Exec.dll
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\bin\Debug\net5.0\Course_123_Exec.pdb
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\obj\Debug\net5.0\Course_123_Exec.csproj.AssemblyReference.cache
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\obj\Debug\net5.0\Course_123_Exec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\obj\Debug\net5.0\Course_123_Exec.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\obj\Debug\net5.0\Course_123_Exec.AssemblyInfo.cs
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\obj\Debug\net5.0\Course_123_Exec.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\obj\Debug\net5.0\Course_123_Exec.dll
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\obj\Debug\net5.0\ref\Course_123_Exec.dll
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\obj\Debug\net5.0\Course_123_Exec.pdb
+D:\Code\Curso C#\Seção 9\Secao_9\Course_123_Exec\obj\Debug\net5.0\Course_123_Exec.genruntimeconfig.cache

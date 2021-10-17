@@ -1,0 +1,13 @@
+D:\Code\Curso C#\Exercícios\Listas\EX1 Estrutura Sequencial\EX1 Estrutura Sequencial\bin\Debug\netcoreapp3.1\EX1 Estrutura Sequencial.exe
+D:\Code\Curso C#\Exercícios\Listas\EX1 Estrutura Sequencial\EX1 Estrutura Sequencial\bin\Debug\netcoreapp3.1\EX1 Estrutura Sequencial.deps.json
+D:\Code\Curso C#\Exercícios\Listas\EX1 Estrutura Sequencial\EX1 Estrutura Sequencial\bin\Debug\netcoreapp3.1\EX1 Estrutura Sequencial.runtimeconfig.json
+D:\Code\Curso C#\Exercícios\Listas\EX1 Estrutura Sequencial\EX1 Estrutura Sequencial\bin\Debug\netcoreapp3.1\EX1 Estrutura Sequencial.runtimeconfig.dev.json
+D:\Code\Curso C#\Exercícios\Listas\EX1 Estrutura Sequencial\EX1 Estrutura Sequencial\bin\Debug\netcoreapp3.1\EX1 Estrutura Sequencial.dll
+D:\Code\Curso C#\Exercícios\Listas\EX1 Estrutura Sequencial\EX1 Estrutura Sequencial\bin\Debug\netcoreapp3.1\EX1 Estrutura Sequencial.pdb
+D:\Code\Curso C#\Exercícios\Listas\EX1 Estrutura Sequencial\EX1 Estrutura Sequencial\obj\Debug\netcoreapp3.1\EX1 Estrutura Sequencial.csproj.AssemblyReference.cache
+D:\Code\Curso C#\Exercícios\Listas\EX1 Estrutura Sequencial\EX1 Estrutura Sequencial\obj\Debug\netcoreapp3.1\EX1 Estrutura Sequencial.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Exercícios\Listas\EX1 Estrutura Sequencial\EX1 Estrutura Sequencial\obj\Debug\netcoreapp3.1\EX1 Estrutura Sequencial.AssemblyInfo.cs
+D:\Code\Curso C#\Exercícios\Listas\EX1 Estrutura Sequencial\EX1 Estrutura Sequencial\obj\Debug\netcoreapp3.1\EX1 Estrutura Sequencial.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Exercícios\Listas\EX1 Estrutura Sequencial\EX1 Estrutura Sequencial\obj\Debug\netcoreapp3.1\EX1 Estrutura Sequencial.dll
+D:\Code\Curso C#\Exercícios\Listas\EX1 Estrutura Sequencial\EX1 Estrutura Sequencial\obj\Debug\netcoreapp3.1\EX1 Estrutura Sequencial.pdb
+D:\Code\Curso C#\Exercícios\Listas\EX1 Estrutura Sequencial\EX1 Estrutura Sequencial\obj\Debug\netcoreapp3.1\EX1 Estrutura Sequencial.genruntimeconfig.cache

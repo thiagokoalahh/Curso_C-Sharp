@@ -1,0 +1,14 @@
+D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\bin\Debug\netcoreapp3.1\Course_60.exe
+D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\bin\Debug\netcoreapp3.1\Course_60.deps.json
+D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\bin\Debug\netcoreapp3.1\Course_60.runtimeconfig.json
+D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\bin\Debug\netcoreapp3.1\Course_60.runtimeconfig.dev.json
+D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\bin\Debug\netcoreapp3.1\Course_60.dll
+D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\bin\Debug\netcoreapp3.1\Course_60.pdb
+D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\obj\Debug\netcoreapp3.1\Course_60.csproj.AssemblyReference.cache
+D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\obj\Debug\netcoreapp3.1\Course_60.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\obj\Debug\netcoreapp3.1\Course_60.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\obj\Debug\netcoreapp3.1\Course_60.AssemblyInfo.cs
+D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\obj\Debug\netcoreapp3.1\Course_60.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\obj\Debug\netcoreapp3.1\Course_60.dll
+D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\obj\Debug\netcoreapp3.1\Course_60.pdb
+D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\obj\Debug\netcoreapp3.1\Course_60.genruntimeconfig.cache

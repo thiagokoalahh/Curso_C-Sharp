@@ -1,0 +1,13 @@
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Classes\Ex3\Ex3\bin\Debug\netcoreapp3.1\Ex3.exe
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Classes\Ex3\Ex3\bin\Debug\netcoreapp3.1\Ex3.deps.json
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Classes\Ex3\Ex3\bin\Debug\netcoreapp3.1\Ex3.runtimeconfig.json
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Classes\Ex3\Ex3\bin\Debug\netcoreapp3.1\Ex3.runtimeconfig.dev.json
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Classes\Ex3\Ex3\bin\Debug\netcoreapp3.1\Ex3.dll
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Classes\Ex3\Ex3\bin\Debug\netcoreapp3.1\Ex3.pdb
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Classes\Ex3\Ex3\obj\Debug\netcoreapp3.1\Ex3.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Classes\Ex3\Ex3\obj\Debug\netcoreapp3.1\Ex3.AssemblyInfo.cs
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Classes\Ex3\Ex3\obj\Debug\netcoreapp3.1\Ex3.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Classes\Ex3\Ex3\obj\Debug\netcoreapp3.1\Ex3.dll
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Classes\Ex3\Ex3\obj\Debug\netcoreapp3.1\Ex3.pdb
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Classes\Ex3\Ex3\obj\Debug\netcoreapp3.1\Ex3.genruntimeconfig.cache
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Classes\Ex3\Ex3\obj\Debug\netcoreapp3.1\Ex3.csproj.AssemblyReference.cache

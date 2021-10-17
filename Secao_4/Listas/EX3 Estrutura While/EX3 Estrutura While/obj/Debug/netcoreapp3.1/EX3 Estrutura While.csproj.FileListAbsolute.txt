@@ -1,0 +1,12 @@
+D:\Code\Curso C#\Exercícios\Listas\EX3 Estrutura While\EX3 Estrutura While\bin\Debug\netcoreapp3.1\EX3 Estrutura While.exe
+D:\Code\Curso C#\Exercícios\Listas\EX3 Estrutura While\EX3 Estrutura While\bin\Debug\netcoreapp3.1\EX3 Estrutura While.deps.json
+D:\Code\Curso C#\Exercícios\Listas\EX3 Estrutura While\EX3 Estrutura While\bin\Debug\netcoreapp3.1\EX3 Estrutura While.runtimeconfig.json
+D:\Code\Curso C#\Exercícios\Listas\EX3 Estrutura While\EX3 Estrutura While\bin\Debug\netcoreapp3.1\EX3 Estrutura While.runtimeconfig.dev.json
+D:\Code\Curso C#\Exercícios\Listas\EX3 Estrutura While\EX3 Estrutura While\bin\Debug\netcoreapp3.1\EX3 Estrutura While.dll
+D:\Code\Curso C#\Exercícios\Listas\EX3 Estrutura While\EX3 Estrutura While\bin\Debug\netcoreapp3.1\EX3 Estrutura While.pdb
+D:\Code\Curso C#\Exercícios\Listas\EX3 Estrutura While\EX3 Estrutura While\obj\Debug\netcoreapp3.1\EX3 Estrutura While.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Exercícios\Listas\EX3 Estrutura While\EX3 Estrutura While\obj\Debug\netcoreapp3.1\EX3 Estrutura While.AssemblyInfo.cs
+D:\Code\Curso C#\Exercícios\Listas\EX3 Estrutura While\EX3 Estrutura While\obj\Debug\netcoreapp3.1\EX3 Estrutura While.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Exercícios\Listas\EX3 Estrutura While\EX3 Estrutura While\obj\Debug\netcoreapp3.1\EX3 Estrutura While.dll
+D:\Code\Curso C#\Exercícios\Listas\EX3 Estrutura While\EX3 Estrutura While\obj\Debug\netcoreapp3.1\EX3 Estrutura While.pdb
+D:\Code\Curso C#\Exercícios\Listas\EX3 Estrutura While\EX3 Estrutura While\obj\Debug\netcoreapp3.1\EX3 Estrutura While.genruntimeconfig.cache

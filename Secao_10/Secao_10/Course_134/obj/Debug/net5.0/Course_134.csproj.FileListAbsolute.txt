@@ -1,0 +1,15 @@
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\bin\Debug\net5.0\Course_134.exe
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\bin\Debug\net5.0\Course_134.deps.json
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\bin\Debug\net5.0\Course_134.runtimeconfig.json
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\bin\Debug\net5.0\Course_134.runtimeconfig.dev.json
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\bin\Debug\net5.0\Course_134.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\bin\Debug\net5.0\ref\Course_134.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\bin\Debug\net5.0\Course_134.pdb
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\obj\Debug\net5.0\Course_134.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\obj\Debug\net5.0\Course_134.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\obj\Debug\net5.0\Course_134.AssemblyInfo.cs
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\obj\Debug\net5.0\Course_134.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\obj\Debug\net5.0\Course_134.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\obj\Debug\net5.0\ref\Course_134.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\obj\Debug\net5.0\Course_134.pdb
+D:\Code\Curso C#\Seção 10\Secao_10\Course_134\obj\Debug\net5.0\Course_134.genruntimeconfig.cache

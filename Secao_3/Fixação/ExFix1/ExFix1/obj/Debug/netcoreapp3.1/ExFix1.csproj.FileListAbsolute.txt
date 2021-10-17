@@ -1,0 +1,12 @@
+D:\Code\Curso C#\Exercícios\Fixação\ExFix1\ExFix1\bin\Debug\netcoreapp3.1\ExFix1.exe
+D:\Code\Curso C#\Exercícios\Fixação\ExFix1\ExFix1\bin\Debug\netcoreapp3.1\ExFix1.deps.json
+D:\Code\Curso C#\Exercícios\Fixação\ExFix1\ExFix1\bin\Debug\netcoreapp3.1\ExFix1.runtimeconfig.json
+D:\Code\Curso C#\Exercícios\Fixação\ExFix1\ExFix1\bin\Debug\netcoreapp3.1\ExFix1.runtimeconfig.dev.json
+D:\Code\Curso C#\Exercícios\Fixação\ExFix1\ExFix1\bin\Debug\netcoreapp3.1\ExFix1.dll
+D:\Code\Curso C#\Exercícios\Fixação\ExFix1\ExFix1\bin\Debug\netcoreapp3.1\ExFix1.pdb
+D:\Code\Curso C#\Exercícios\Fixação\ExFix1\ExFix1\obj\Debug\netcoreapp3.1\ExFix1.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Exercícios\Fixação\ExFix1\ExFix1\obj\Debug\netcoreapp3.1\ExFix1.AssemblyInfo.cs
+D:\Code\Curso C#\Exercícios\Fixação\ExFix1\ExFix1\obj\Debug\netcoreapp3.1\ExFix1.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Exercícios\Fixação\ExFix1\ExFix1\obj\Debug\netcoreapp3.1\ExFix1.dll
+D:\Code\Curso C#\Exercícios\Fixação\ExFix1\ExFix1\obj\Debug\netcoreapp3.1\ExFix1.pdb
+D:\Code\Curso C#\Exercícios\Fixação\ExFix1\ExFix1\obj\Debug\netcoreapp3.1\ExFix1.genruntimeconfig.cache

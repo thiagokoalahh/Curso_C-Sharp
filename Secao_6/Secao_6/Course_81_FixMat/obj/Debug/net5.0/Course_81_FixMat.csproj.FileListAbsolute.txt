@@ -1,0 +1,16 @@
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\bin\Debug\net5.0\Course_81_FixMat.exe
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\bin\Debug\net5.0\Course_81_FixMat.deps.json
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\bin\Debug\net5.0\Course_81_FixMat.runtimeconfig.json
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\bin\Debug\net5.0\Course_81_FixMat.runtimeconfig.dev.json
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\bin\Debug\net5.0\Course_81_FixMat.dll
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\bin\Debug\net5.0\ref\Course_81_FixMat.dll
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\bin\Debug\net5.0\Course_81_FixMat.pdb
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\obj\Debug\net5.0\Course_81_FixMat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\obj\Debug\net5.0\Course_81_FixMat.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\obj\Debug\net5.0\Course_81_FixMat.AssemblyInfo.cs
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\obj\Debug\net5.0\Course_81_FixMat.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\obj\Debug\net5.0\Course_81_FixMat.dll
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\obj\Debug\net5.0\ref\Course_81_FixMat.dll
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\obj\Debug\net5.0\Course_81_FixMat.pdb
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\obj\Debug\net5.0\Course_81_FixMat.genruntimeconfig.cache
+D:\Code\Curso C#\Seção 6\Secao_6\Course_81_FixMat\obj\Debug\net5.0\Course_81_FixMat.csproj.AssemblyReference.cache

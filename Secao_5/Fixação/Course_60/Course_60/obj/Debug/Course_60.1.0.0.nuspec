@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Course_60</id>
+    <version>1.0.0</version>
+    <authors>Course_60</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\bin\Debug\netcoreapp3.1\Course_60.runtimeconfig.json" target="lib\netcoreapp3.1\Course_60.runtimeconfig.json" />
+    <file src="D:\Code\Curso C#\Seção 5\Fixação\Course_60\Course_60\bin\Debug\netcoreapp3.1\Course_60.dll" target="lib\netcoreapp3.1\Course_60.dll" />
+  </files>
+</package>

@@ -1,0 +1,6 @@
+D:\Code\Curso C#\Seção 9\Secao_9\Course_122\bin\Release\net5.0\publish\Course_122.pdb
+D:\Code\Curso C#\Seção 9\Secao_9\Course_122\bin\Release\net5.0\publish\clrcompression.dll
+D:\Code\Curso C#\Seção 9\Secao_9\Course_122\bin\Release\net5.0\publish\clrjit.dll
+D:\Code\Curso C#\Seção 9\Secao_9\Course_122\bin\Release\net5.0\publish\coreclr.dll
+D:\Code\Curso C#\Seção 9\Secao_9\Course_122\bin\Release\net5.0\publish\mscordaccore.dll
+D:\Code\Curso C#\Seção 9\Secao_9\Course_122\bin\Release\net5.0\publish\Course_122.exe

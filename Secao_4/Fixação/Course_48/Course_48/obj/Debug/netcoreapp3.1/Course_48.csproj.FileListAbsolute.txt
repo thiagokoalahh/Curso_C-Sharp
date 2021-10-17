@@ -1,0 +1,12 @@
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Course_48\Course_48\obj\Debug\netcoreapp3.1\Course_48.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Course_48\Course_48\obj\Debug\netcoreapp3.1\Course_48.AssemblyInfo.cs
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Course_48\Course_48\obj\Debug\netcoreapp3.1\Course_48.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Course_48\Course_48\bin\Debug\netcoreapp3.1\Course_48.exe
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Course_48\Course_48\bin\Debug\netcoreapp3.1\Course_48.deps.json
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Course_48\Course_48\bin\Debug\netcoreapp3.1\Course_48.runtimeconfig.json
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Course_48\Course_48\bin\Debug\netcoreapp3.1\Course_48.runtimeconfig.dev.json
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Course_48\Course_48\bin\Debug\netcoreapp3.1\Course_48.dll
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Course_48\Course_48\bin\Debug\netcoreapp3.1\Course_48.pdb
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Course_48\Course_48\obj\Debug\netcoreapp3.1\Course_48.dll
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Course_48\Course_48\obj\Debug\netcoreapp3.1\Course_48.pdb
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Course_48\Course_48\obj\Debug\netcoreapp3.1\Course_48.genruntimeconfig.cache

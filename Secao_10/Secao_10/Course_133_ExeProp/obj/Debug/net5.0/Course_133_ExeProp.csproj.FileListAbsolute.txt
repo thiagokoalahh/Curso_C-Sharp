@@ -1,0 +1,16 @@
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\bin\Debug\net5.0\Course_133_ExeProp.exe
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\bin\Debug\net5.0\Course_133_ExeProp.deps.json
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\bin\Debug\net5.0\Course_133_ExeProp.runtimeconfig.json
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\bin\Debug\net5.0\Course_133_ExeProp.runtimeconfig.dev.json
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\bin\Debug\net5.0\Course_133_ExeProp.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\bin\Debug\net5.0\ref\Course_133_ExeProp.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\bin\Debug\net5.0\Course_133_ExeProp.pdb
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\obj\Debug\net5.0\Course_133_ExeProp.csproj.AssemblyReference.cache
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\obj\Debug\net5.0\Course_133_ExeProp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\obj\Debug\net5.0\Course_133_ExeProp.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\obj\Debug\net5.0\Course_133_ExeProp.AssemblyInfo.cs
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\obj\Debug\net5.0\Course_133_ExeProp.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\obj\Debug\net5.0\Course_133_ExeProp.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\obj\Debug\net5.0\ref\Course_133_ExeProp.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\obj\Debug\net5.0\Course_133_ExeProp.pdb
+D:\Code\Curso C#\Seção 10\Secao_10\Course_133_ExeProp\obj\Debug\net5.0\Course_133_ExeProp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Primeiros exer\Primeiros exer\bin\Debug\netcoreapp3.1\Primeiros exer.exe
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Primeiros exer\Primeiros exer\bin\Debug\netcoreapp3.1\Primeiros exer.deps.json
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Primeiros exer\Primeiros exer\bin\Debug\netcoreapp3.1\Primeiros exer.runtimeconfig.json
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Primeiros exer\Primeiros exer\bin\Debug\netcoreapp3.1\Primeiros exer.runtimeconfig.dev.json
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Primeiros exer\Primeiros exer\bin\Debug\netcoreapp3.1\Primeiros exer.dll
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Primeiros exer\Primeiros exer\bin\Debug\netcoreapp3.1\Primeiros exer.pdb
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Primeiros exer\Primeiros exer\obj\Debug\netcoreapp3.1\Primeiros exer.csproj.AssemblyReference.cache
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Primeiros exer\Primeiros exer\obj\Debug\netcoreapp3.1\Primeiros exer.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Primeiros exer\Primeiros exer\obj\Debug\netcoreapp3.1\Primeiros exer.AssemblyInfo.cs
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Primeiros exer\Primeiros exer\obj\Debug\netcoreapp3.1\Primeiros exer.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Primeiros exer\Primeiros exer\obj\Debug\netcoreapp3.1\Primeiros exer.dll
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Primeiros exer\Primeiros exer\obj\Debug\netcoreapp3.1\Primeiros exer.pdb
+D:\Code\Curso C#\Exercícios\Seção 4\Fixação\Primeiros exer\Primeiros exer\obj\Debug\netcoreapp3.1\Primeiros exer.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Code\Curso C#\Seção 6\Secao_6\Course_71_FixVect\bin\Debug\netcoreapp3.1\Course_71_FixVect.exe
+D:\Code\Curso C#\Seção 6\Secao_6\Course_71_FixVect\bin\Debug\netcoreapp3.1\Course_71_FixVect.deps.json
+D:\Code\Curso C#\Seção 6\Secao_6\Course_71_FixVect\bin\Debug\netcoreapp3.1\Course_71_FixVect.runtimeconfig.json
+D:\Code\Curso C#\Seção 6\Secao_6\Course_71_FixVect\bin\Debug\netcoreapp3.1\Course_71_FixVect.runtimeconfig.dev.json
+D:\Code\Curso C#\Seção 6\Secao_6\Course_71_FixVect\bin\Debug\netcoreapp3.1\Course_71_FixVect.dll
+D:\Code\Curso C#\Seção 6\Secao_6\Course_71_FixVect\bin\Debug\netcoreapp3.1\Course_71_FixVect.pdb
+D:\Code\Curso C#\Seção 6\Secao_6\Course_71_FixVect\obj\Debug\netcoreapp3.1\Course_71_FixVect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Curso C#\Seção 6\Secao_6\Course_71_FixVect\obj\Debug\netcoreapp3.1\Course_71_FixVect.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Seção 6\Secao_6\Course_71_FixVect\obj\Debug\netcoreapp3.1\Course_71_FixVect.AssemblyInfo.cs
+D:\Code\Curso C#\Seção 6\Secao_6\Course_71_FixVect\obj\Debug\netcoreapp3.1\Course_71_FixVect.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Seção 6\Secao_6\Course_71_FixVect\obj\Debug\netcoreapp3.1\Course_71_FixVect.dll
+D:\Code\Curso C#\Seção 6\Secao_6\Course_71_FixVect\obj\Debug\netcoreapp3.1\Course_71_FixVect.pdb
+D:\Code\Curso C#\Seção 6\Secao_6\Course_71_FixVect\obj\Debug\netcoreapp3.1\Course_71_FixVect.genruntimeconfig.cache
+D:\Code\Curso C#\Seção 6\Secao_6\Course_71_FixVect\obj\Debug\netcoreapp3.1\Course_71_FixVect.csproj.AssemblyReference.cache

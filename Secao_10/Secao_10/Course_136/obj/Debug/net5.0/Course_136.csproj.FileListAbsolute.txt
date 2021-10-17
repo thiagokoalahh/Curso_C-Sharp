@@ -1,0 +1,16 @@
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\obj\Debug\net5.0\Course_136.csproj.AssemblyReference.cache
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\obj\Debug\net5.0\Course_136.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\obj\Debug\net5.0\Course_136.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\obj\Debug\net5.0\Course_136.AssemblyInfo.cs
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\obj\Debug\net5.0\Course_136.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\bin\Debug\net5.0\Course_136.exe
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\bin\Debug\net5.0\Course_136.deps.json
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\bin\Debug\net5.0\Course_136.runtimeconfig.json
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\bin\Debug\net5.0\Course_136.runtimeconfig.dev.json
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\bin\Debug\net5.0\Course_136.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\bin\Debug\net5.0\ref\Course_136.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\bin\Debug\net5.0\Course_136.pdb
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\obj\Debug\net5.0\Course_136.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\obj\Debug\net5.0\ref\Course_136.dll
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\obj\Debug\net5.0\Course_136.pdb
+D:\Code\Curso C#\Seção 10\Secao_10\Course_136\obj\Debug\net5.0\Course_136.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\bin\Debug\net5.0\Course_87.exe
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\bin\Debug\net5.0\Course_87.deps.json
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\bin\Debug\net5.0\Course_87.runtimeconfig.json
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\bin\Debug\net5.0\Course_87.runtimeconfig.dev.json
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\bin\Debug\net5.0\Course_87.dll
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\bin\Debug\net5.0\ref\Course_87.dll
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\bin\Debug\net5.0\Course_87.pdb
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\obj\Debug\net5.0\Course_87.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\obj\Debug\net5.0\Course_87.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\obj\Debug\net5.0\Course_87.AssemblyInfo.cs
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\obj\Debug\net5.0\Course_87.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\obj\Debug\net5.0\Course_87.dll
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\obj\Debug\net5.0\ref\Course_87.dll
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\obj\Debug\net5.0\Course_87.pdb
+D:\Code\Curso C#\Seção 7\Secao_7\Secao_7\obj\Debug\net5.0\Course_87.genruntimeconfig.cache

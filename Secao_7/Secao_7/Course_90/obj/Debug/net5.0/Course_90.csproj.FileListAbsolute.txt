@@ -1,0 +1,16 @@
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\bin\Debug\net5.0\Course_90.exe
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\bin\Debug\net5.0\Course_90.deps.json
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\bin\Debug\net5.0\Course_90.runtimeconfig.json
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\bin\Debug\net5.0\Course_90.runtimeconfig.dev.json
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\bin\Debug\net5.0\Course_90.dll
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\bin\Debug\net5.0\ref\Course_90.dll
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\bin\Debug\net5.0\Course_90.pdb
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\obj\Debug\net5.0\Course_90.csproj.AssemblyReference.cache
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\obj\Debug\net5.0\Course_90.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\obj\Debug\net5.0\Course_90.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\obj\Debug\net5.0\Course_90.AssemblyInfo.cs
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\obj\Debug\net5.0\Course_90.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\obj\Debug\net5.0\Course_90.dll
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\obj\Debug\net5.0\ref\Course_90.dll
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\obj\Debug\net5.0\Course_90.pdb
+D:\Code\Curso C#\Seção 7\Secao_7\Course_90\obj\Debug\net5.0\Course_90.genruntimeconfig.cache

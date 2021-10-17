@@ -1,0 +1,14 @@
+D:\Code\Curso C#\Seção 6\Secao_6\Course_69\bin\Release\netcoreapp3.1\Course_69.exe
+D:\Code\Curso C#\Seção 6\Secao_6\Course_69\bin\Release\netcoreapp3.1\Course_69.deps.json
+D:\Code\Curso C#\Seção 6\Secao_6\Course_69\bin\Release\netcoreapp3.1\Course_69.runtimeconfig.json
+D:\Code\Curso C#\Seção 6\Secao_6\Course_69\bin\Release\netcoreapp3.1\Course_69.runtimeconfig.dev.json
+D:\Code\Curso C#\Seção 6\Secao_6\Course_69\bin\Release\netcoreapp3.1\Course_69.dll
+D:\Code\Curso C#\Seção 6\Secao_6\Course_69\bin\Release\netcoreapp3.1\Course_69.pdb
+D:\Code\Curso C#\Seção 6\Secao_6\Course_69\obj\Release\netcoreapp3.1\Course_69.csproj.AssemblyReference.cache
+D:\Code\Curso C#\Seção 6\Secao_6\Course_69\obj\Release\netcoreapp3.1\Course_69.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Curso C#\Seção 6\Secao_6\Course_69\obj\Release\netcoreapp3.1\Course_69.AssemblyInfoInputs.cache
+D:\Code\Curso C#\Seção 6\Secao_6\Course_69\obj\Release\netcoreapp3.1\Course_69.AssemblyInfo.cs
+D:\Code\Curso C#\Seção 6\Secao_6\Course_69\obj\Release\netcoreapp3.1\Course_69.csproj.CoreCompileInputs.cache
+D:\Code\Curso C#\Seção 6\Secao_6\Course_69\obj\Release\netcoreapp3.1\Course_69.dll
+D:\Code\Curso C#\Seção 6\Secao_6\Course_69\obj\Release\netcoreapp3.1\Course_69.pdb
+D:\Code\Curso C#\Seção 6\Secao_6\Course_69\obj\Release\netcoreapp3.1\Course_69.genruntimeconfig.cache
