@@ -1,7 +1,4 @@
-Secao_8
 Secao_8/
-*Secao_8
-*Secao_8/
 # Visual Studio cache files
 # files ending in .cache can be ignored
 *.[Cc]ache
@@ -163,6 +160,4 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 
-# PDF
-.pdf
 *.pdf
