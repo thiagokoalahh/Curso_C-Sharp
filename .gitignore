@@ -160,6 +160,7 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 
-*/.pdf
+
+Secao_11/*.pdf
 
 
